@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Output from Typescript
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.js
+*.js.map
+*.d.ts
